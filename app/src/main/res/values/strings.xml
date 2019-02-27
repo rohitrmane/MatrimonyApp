@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Matrimony App</string>
+    <string name="error_occurred">Error occurred</string>
+    <string name="design_by">\@Design by Rohit</string>
+</resources>
